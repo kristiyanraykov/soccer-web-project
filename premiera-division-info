@@ -1,0 +1,28 @@
+
+            {
+                "league_id": 2833,
+                "name": "Primera Division",
+                "type": "League",
+                "country": "Spain",
+                "country_code": "ES",
+                "season": 2020,
+                "season_start": "2020-09-12",
+                "season_end": "2021-05-23",
+                "logo": "https://media.api-sports.io/football/leagues/140.png",
+                "flag": "https://media.api-sports.io/flags/es.svg",
+                "standings": 1,
+                "is_current": 1,
+                "coverage": {
+                    "standings": true,
+                    "fixtures": {
+                        "events": true,
+                        "lineups": true,
+                        "statistics": true,
+                        "players_statistics": true
+                    },
+                    "players": true,
+                    "topScorers": true,
+                    "predictions": true,
+                    "odds": true
+                }
+            },
